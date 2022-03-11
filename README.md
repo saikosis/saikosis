@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Sai Sampath Karumudi
+<img src="https://github.com/sskarumudi/sskarumudi/blob/main/github-header-image.png" alt="sai_sampath">
+
+## Hi, I’m Sai Sampath Karumudi 👋
 - 👀 I’m interested in NLP, CV and Data Visualization
 - 🌱 I’m currently learning GameDev
 - 💞️ I’m looking to collaborate on anything related to CV and/or NLP
