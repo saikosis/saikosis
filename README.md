@@ -1,9 +1,8 @@
 <img src="https://github.com/sskarumudi/sskarumudi/blob/main/github-header-image.png" alt="sai_sampath">
 
 ## Hi, I’m Sai Sampath Karumudi 👋
-- 👀 I’m interested in NLP, CV and Data Visualization
-- 🌱 I’m currently learning GameDev
-- 💞️ I’m looking to collaborate on anything related to CV and/or NLP
+- 👀 I’m interested in ML, WebDev and GameDev
+- 🌱 I’m currently learning C# and Unity
 - 📫 You can connect with me on LinkedIn -> https://www.linkedin.com/in/karumudi/
 
 <!---
