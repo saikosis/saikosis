@@ -1,4 +1,4 @@
-<img src="https://github.com/sskarumudi/sskarumudi/blob/main/github-header-image.png" alt="sai_sampath">
+<img src="https://github.com/sskarumudi/sskarumudi/blob/main/github-header-image%20(4).png" alt="sai_sampath">
 
 ## Hi, I’m Sai Sampath Karumudi 👋
 - 👀 I’m interested in ML, WebDev and GameDev
