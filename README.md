@@ -20,8 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikosis&show_icons=true&locale=en&layout=compact" alt="saikosis" /></p>
 
------
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikosis&show_icons=true&locale=en" alt="saikosis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikosis&" alt="saikosis" /></p>
