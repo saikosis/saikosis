@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Sampath Karumudi</h1>
 <h3 align="center">An Associate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikosis&label=Profile%20views&color=0e75b6&style=flat" alt="saikosis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikosis" alt="saikosis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saisampath_dev" target="blank"><img src="https://img.shields.io/twitter/follow/saisampath_dev?logo=twitter&style=for-the-badge" alt="saisampath_dev" /></a> </p>
 
 - 🌱 I’m currently learning **.NET MAUI, Unity and System design.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/saikosis](https://github.com/saikosis)
 
 - 💬 Ask me about **Python, data science and ML**
 
@@ -25,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikosis&show_icons=true&locale=en&layout=compact" alt="saikosis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikosis&show_icons=true&locale=en" alt="saikosis" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikosis&" alt="saikosis" /></p>
