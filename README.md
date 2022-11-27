@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saisampath_dev" target="blank"><img src="https://img.shields.io/twitter/follow/saisampath_dev?logo=twitter&style=for-the-badge" alt="saisampath_dev" /></a> </p>
 
-- 🌱 I’m currently learning **.NET MAUI, Unity and System design.**
+- 🌱 I’m currently learning **Quantitative Trading and System design.**
 
 - 💬 Ask me about **Python, data science and ML**
 
