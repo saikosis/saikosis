@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sai Sampath Karumudi</h1>
-<h3 align="center">An Associate Data Scientist from India</h3>
 
 
-- 🌱 I’m currently learning **Quantitative Trading and System design.**
 
-- 💬 Ask me about **Python, data science and ML**
+- I am an **Associate Data Scientist** from India
+
+- I’m currently learning **Quantitative Trading** and **System design.**
+
+- Ask me about **Python, Data Science and ML**
 
 
 <h3 align="left">Connect with me:</h3>
