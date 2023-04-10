@@ -4,7 +4,7 @@
 
 - I am an **Associate Data Scientist** from India
 
-- I’m currently learning **Quantitative Trading** and **System design.**
+- I’m currently learning **Deep Learning** and **System design.**
 
 - Ask me about **Python, Data Science and ML**
 
