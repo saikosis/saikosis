@@ -2,11 +2,11 @@
 
 
 
-- I am an **Associate Data Scientist** from India
+- I am an **ML Engineer** from India
 
 - I’m currently learning **Generative Modelling** and **ML System design.**
 
-- Ask me about **Python, Data Science and ML**
+- Ask me about **Python, Data Science, and ML**
 
 
 <h3 align="left">Connect with me:</h3>
