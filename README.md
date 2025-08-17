@@ -4,7 +4,7 @@
 
 - I am an **ML Engineer** from India
 
-- I’m into **Quantum Computing**, **Generative Modelling** and **ML System design.**
+- I’m into **Quantum Computing**, **Generative AI** and **ML System design.**
 
 - Ask me about **Python, Data Science, and ML**
 
