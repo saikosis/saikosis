@@ -2,7 +2,7 @@
 
 
 
-- I am an **ML Engineer** from India
+- I am a **Senior Software Engineer** from India
 
 - I’m into **Quantum Computing**, **Generative AI** and **ML System design.**
 
