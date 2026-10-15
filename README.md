@@ -4,7 +4,7 @@
 
 - I am a **Senior Software Engineer** from India
 
-- I’m into **Quantum Computing**, **Generative AI** and **ML System design.**
+- I’m into **Quantum Computing**, **Gen AI** and **ML System design.**
 
 - Ask me about **Python, Data Science, and ML**
 
